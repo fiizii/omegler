@@ -34,7 +34,6 @@ app.get('/reset', (req, res) => {
 });
 
 app.get('/display', (req, res) => {
-    // display file contents, parse by newline and make html
     fs.readFile('./ip.txt', 'utf8', (err, data) => {
         if (err) throw err;
         const lines = data.split('\n');
