@@ -16,3 +16,6 @@ Use it to create a 'spongebob' ip 'meme' automatically with people's **real** in
 
 ## Need support?
 - too bad retard
+
+## preview
+![spongebob ip shit](https://cdn.discordapp.com/attachments/1040667633802031216/1040667639443374100/image.png)
